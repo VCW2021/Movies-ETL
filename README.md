@@ -10,5 +10,7 @@ Transforming
 Kaggle Data
 ![image](https://user-images.githubusercontent.com/86276329/144188726-9c416753-2bae-4028-84e2-8bbb5493adc4.png)
 
+
 Loading
 ![image](https://user-images.githubusercontent.com/86276329/144189211-f3ebb505-1cb0-486a-bbd2-f8b72f4deaaa.png)
+A JSON file and 2 Kaggle files were extracted, then transformed, and joined. A movies and ratings file were loaded into a database for the event.
