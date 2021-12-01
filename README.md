@@ -1,0 +1,1 @@
+The purpose of this project is to create a refactorable and intuitive ETL Pipeline that helps automate processing large sets of data.
